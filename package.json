@@ -1,0 +1,25 @@
+{
+  "name": "camping",
+  "version": "1.0.0",
+  "description": "campgrounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KurtjKing/camping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KurtjKing/camping/issues"
+  },
+  "homepage": "https://github.com/KurtjKing/camping#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
