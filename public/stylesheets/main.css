@@ -1,0 +1,12 @@
+.img-thumbnail{
+    padding:0;
+}
+
+#delete-form{
+    display:inline-block;
+    
+}
+
+#editbtn{
+    display: inline-block;
+}
